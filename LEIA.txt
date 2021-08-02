@@ -1,0 +1,58 @@
+
+
+O projeto contendo o game é o "Rinha Espacial"
+
+O outro arquivo cotem o menu corrigido onde estou desenvolvendo o game de um jeito mais coerente.
+
+Para rodar o game -> Abra o projeto(de preferencia no eclipse) e rode a main.
+Ou -> rode o Game.jar (atente-se para a versão do seu Java)
+
+UML está bem bagunçada pois eu realizei algumas modificações durante o desenvolvimento do game.
+
+Na segunda classe eu estou desenvolvendo o game novamente, mas fazendo a correção e aperfeiçoamento
+de algumas classes e lógica do próprio game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
